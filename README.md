@@ -1,4 +1,4 @@
-![image](https://github.com/sreenath789/oops-assignment-1/assets/88339640/96131e7f-93e1-4e01-b9bb-420d9d5140e6)<h1 align = "center"> Car service station </h1>
+<h1 align = "center"> Car service station </h1>
 
 ### Languages used :
 #### Java
