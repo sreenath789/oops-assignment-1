@@ -1,4 +1,4 @@
-<h1 align = "center"> Car service station </h1>
+![image](https://github.com/sreenath789/oops-assignment-1/assets/88339640/96131e7f-93e1-4e01-b9bb-420d9d5140e6)<h1 align = "center"> Car service station </h1>
 
 ### Languages used :
 #### Java
@@ -83,3 +83,8 @@ carSUV() : it will print the cartype of suv and service amount for the bill.
 ##### Charges for Engine Fixing – ₹ 5000
 ##### Total Bill – ₹ 7000
 ##### A Complimentary gift provided for billing more than 10000 , SAVE10 save upto 10% offer next time.
+
+![Screenshot (41)](https://github.com/sreenath789/oops-assignment-1/assets/88339640/5c6ce910-0af5-415e-952f-f71adb5e26fe)
+
+
+
